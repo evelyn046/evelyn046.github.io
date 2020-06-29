@@ -1,7 +1,7 @@
 ---
 title: Github Pages+Jekyll搭建个人博客
 author: Evelyn
-date: 2020-06-29 14:54:00 +0800
+date: 2020-06-29 17:13:00 +0800
 categories: [技术]
 tags: [Github, Jekyll]
 math: true
