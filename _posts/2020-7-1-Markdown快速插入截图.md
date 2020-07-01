@@ -1,7 +1,7 @@
 ---
 title: Markdown快速插入截图
 author: Evelyn
-date: 2020-07-01 15:32:00 +0800
+date: 2020-07-01 16:01:00 +0800
 categories: [技术]
 tags: [Markdown]
 math: true
@@ -16,17 +16,17 @@ math: true
 
 在 *Extension* 中搜索 **Paste Image** 下载安装即可
 
-![](../../2020-07-01-15-49-12.png)
+![](assets/img/2020-07-01-15-49-12.png).png)
 
 截图后按下`ctrl + alt + v`即可快速插入图片。
 
-![](../../2020-07-01-15-51-34.png)
+![](assets/img/2020-07-01-16-01-14.png)
 
 图片默认保存在当前文档所在的目录，可以对目录进行修改。
 
 在 *File* -> *Preferences* -> *Settings*中搜索“Paste Image”即可修改保存路径
 
-![](../../2020-07-01-15-48-29.png)
+![](assets/img/2020-07-01-16-00-30.png)
 
 > 我将路径修改为了当前目录下的assets文件夹中的img文件夹，如果输入的文件夹不存在，则会自动创建同名文件夹。
 
