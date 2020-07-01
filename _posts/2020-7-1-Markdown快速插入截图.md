@@ -16,7 +16,9 @@ math: true
 
 在 *Extension* 中搜索 **Paste Image** 下载安装即可
 
-![](../assets/img/2020-07-01-16-18-58.png)
+ ![Desktop View]({{ "/assets/img/2020-07-01-16-18-58.png" |  }})
+ ![Desktop View]({{ "../assets/img/2020-07-01-16-18-58.png" |  }})
+
 
 截图后按下`ctrl + alt + v`即可快速插入图片。
 
