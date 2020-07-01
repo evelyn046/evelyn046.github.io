@@ -17,13 +17,15 @@ math: true
 在 *Extension* 中搜索 **Paste Image** 下载安装即可
 
  ![Desktop View]({{ "/assets/img/2020-07-01-16-18-58.png" |  }})
- ![Desktop View]({{ "../assets/img/2020-07-01-16-18-58.png" |  }})
+ <!-- ![Desktop View]({{ "../assets/img/2020-07-01-16-18-58.png" |  }})
 ![]({{ "/assets/img/..\assets\img\2020-07-01-17-20-29.png" |  }})
 ![]({{ "assets\img\2020-07-01-17-24-26.png" |  }})
 ![]({{ "assets\img\2020-07-01-17-30-41.png" |  }})
 ![](..\assets\img\2020-07-01-17-35-50.png)
-![](assets/img/2020-07-01-17-40-13.png)
-![]({{ "assets/img/2020-07-01-17-41-00.png" |  }})
+![](assets/img/2020-07-01-17-40-13.png) -->
+<!-- ![]({{ "assets/img/2020-07-01-17-41-00.png" |  }}) -->
+![]({{ "/assets/img/2020-07-01-17-46-06.png" |  }})
+
 截图后按下`ctrl + alt + v`即可快速插入图片。
 
 ![](../assets/img/2020-07-01-16-18-37.png)
