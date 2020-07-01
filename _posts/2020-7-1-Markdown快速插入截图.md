@@ -18,7 +18,8 @@ math: true
 
  ![Desktop View]({{ "/assets/img/2020-07-01-16-18-58.png" |  }})
  ![Desktop View]({{ "../assets/img/2020-07-01-16-18-58.png" |  }})
-
+![]({{ "/assets/img/..\assets\img\2020-07-01-17-20-29.png" |  }})
+![]({{ "assets\img\2020-07-01-17-24-26.png" |  }})
 
 截图后按下`ctrl + alt + v`即可快速插入图片。
 
