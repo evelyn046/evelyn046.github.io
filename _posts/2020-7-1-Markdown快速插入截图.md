@@ -1,9 +1,9 @@
 ---
 title: Markdown快速插入截图
 author: Evelyn
-date: 2020-07-02 11:05:00 +0800
+date: 2020-07-02 11:15:00 +0800
 categories: [技术]
-tags: [Markdown]
+tags: [Markdown, Jekyll]
 ---
 
 写博客用的是VScode + Markdown + Jekyll，但用markdown插入图片是件非常麻烦的事情。通常有两种方法：
